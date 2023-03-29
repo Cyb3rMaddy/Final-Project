@@ -1,3 +1,7 @@
 
 In this project, you will act as a security engineer supporting an organization's SOC infrastructure. The SOC analysts have noticed some discrepancies with alerting in the Kibana system and the manager has asked the security engineering team to investigate and confirm that newly created alerts are working.
 If the alerts are working, you will then monitor live traffic on the wire to detect any abnormalities that aren't reflected in the alerting system. Then, you will report back your findings to the manager with appropriate analysis.
+
+Play the role of Security Engineer for X-CORP, supporting the SOC infrastructure. The SOC Analysts have noticed some discrepancies with alerting in the Kibana system and the manager has asked the Security Engineering team to investigate and confirm that newly created alerts are working. If the alerts are working, the engineers are to monitor live traffic on the wire to detect any abnormalities that aren't reflected in the alerting system. They need to report back all their findings to the manager with appropriate analysis.
+
+Students will exploit a vulnerable WordPress installation. This task will bring them yet another step closer to a real-world penetration testing scenario. They will implement alerts in Kibana before performing their assessments. This implementation will allow students to see dashboard alerts in real-time. After completing the alerting and penetration testing portions of the project, they will use Wireshark to capture and analyze live traffic on the virtual network.
